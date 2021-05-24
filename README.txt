@@ -11,7 +11,7 @@ Pasoi Sofia, AM: 2798, cs02798@uoi.gr
 τους πίνακες στο workbench.
 
 Στον φάκελο scriptForCsvFiles θα βρείτε το script  σε python για την 
-δημιουργία των csv files που με τα οποία γεμίσαμε τους πίνακες 
+δημιουργία των csv files με τα οποία γεμίσαμε τους πίνακες 
 στο workbench.
 
 Στον φάκελο SQLscripts θα βρείτε τα scripts σε SQL με τα οποία δημιουργήσαμε
