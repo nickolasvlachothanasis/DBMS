@@ -5,7 +5,7 @@
 URL για το βίντεο report  στο YouTuBe :https://youtu.be/pogM4Y7MNtw
 
 Nickolaos Vlachothanasis, AM: 2652, cs02652@uoi.gr
-Pasoi Sofia, AM: 2798, cs02798@uoi.gr
+Pasoi Sofia,              AM: 2798, cs02798@uoi.gr
 
 Στον φάκελο DATA θα βρείτε τα τελικά csv files με τα οποία γεμίσαμε
 τους πίνακες στο workbench.
