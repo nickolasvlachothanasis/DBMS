@@ -31,8 +31,4 @@ GapMinder: https://www.gapminder.org/data/
   1. Βλαχοθανάση Νικόλαο(GitHub username: nickolasvlachothanasis)
   2. Πασόη Σοφία (GitHub username: Sofia Pasoi)
 
-5) Επιλογή του κουμπιού Export 
-
-6) Επιλογή Export To Line Chart ή Export To Bar Chart ή 
-   Export To Scatter Plot
 
