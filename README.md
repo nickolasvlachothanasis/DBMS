@@ -1,38 +1,47 @@
 # Databases
-The above application was developed as part of the course Advanced Topics in Database Technology and Applications during the Spring academic semester of 2020–2021. It focuses on data visualization.
 
-# More specifically, the user selects:
+This project was developed as part of the course **Advanced Topics in Database Technology and Applications** during the **Spring semester of 2020–2021**. It centers around **data visualization**, allowing users to interact with and explore data through dynamic graphical representations.
 
-Issues from a list of problems.
+---
 
-Countries from a list of countries.
+## 🧩 Project Functionality
 
-Time periods (years).
+The application allows users to:
 
-Type of visualization.
+- Select **issues** from a predefined list  
+- Choose **countries** to compare  
+- Define a **time range** (years)  
+- Pick a **visualization format** (e.g., line chart, bar chart)
 
-The application retrieves data from a database, processes it, and displays it in the selected visualization format.
+Based on the user's selections, the system retrieves the corresponding data from a database, processes it, and renders the appropriate visualization.
 
-# Data Source
-To populate the database, we selected various indicators from the website:
+---
 
-GapMinder: https://www.gapminder.org/data/
+## 🌐 Data Source
 
-# Contents
-Application code (Backend, Frontend).
+The data used in this project was sourced from **GapMinder**:  
+🔗 [https://www.gapminder.org/data/](https://www.gapminder.org/data/)
 
-Python scripts for creating the database and tables.
+Various development indicators were selected and used to populate the application's database.
 
-Python scripts for data visualization.
+---
 
-A report with detailed explanations.
+## 📁 Project Contents
 
-Additionally, there is a Video Report with brief explanations and a sample execution.
-You can watch it here: https://youtu.be/pogM4Y7MNtw
+- ✅ Backend and frontend source code  
+- 🐍 Python scripts for database creation and table setup  
+- 📊 Python scripts for generating visualizations  
+- 📄 A comprehensive project report with detailed explanations  
+- 🎥 A short **Video Report** with an example walkthrough:  
+  [Watch on YouTube](https://youtu.be/pogM4Y7MNtw)
 
-# Team
-Implemented by:
+---
 
-Nikolaos Vlachothanasis (GitHub username: nickolasvlachothanasis)
+## 👥 Team
 
-Sofia Pasoi (GitHub username: Sofia Pasoi)
+Developed by:
+
+- **Nikolaos Vlachothanasis** — GitHub: [nickolasvlachothanasis](https://github.com/nickolasvlachothanasis)  
+- **Sofia Pasoi** — GitHub: [SofiaPasoi](https://github.com/SofiaPasoi)
+
+---
