@@ -1,34 +1,38 @@
 # Databases
+The above application was developed as part of the course Advanced Topics in Database Technology and Applications during the Spring academic semester of 2020–2021. It focuses on data visualization.
 
-Η παραπάνω εφαρμογή υλοποιήθηκε στα πλαίσια του μαθήματος Προχωρημένα Θέματα Τεχνολογίας και Εφαρμογών Βάσεων Δεδομένων 
-το εαρινό ακαδημαικό εξάμηνο 2020-2021. Αφορά οπτικοποίηση δεδομένων. 
+# More specifically, the user selects:
 
-Πιο συγκεκριμένα, ο χρήστης επιλέγει:
-  1. Προβλήματα από μια λίστα προβλημάτων.
-  2. Χώρες από μια λίστα χωρών.
-  3. Χρονολογίες.
-  4. Μορφή οπτικοποίησης.
+Issues from a list of problems.
 
-Η εφαρμογή παίρνει δεδομένα από μια βάση δεδομένων, τα επεξεργάζεται και εμφανίζει την επιλεγμένη μορφή οπτικοποίησης.
+Countries from a list of countries.
 
-# Πηγή Δεδομένων
-Για την τροφοδόση της βάσης επιλέξαμε διάφορους δείκτες απο τη σελίδα:
+Time periods (years).
+
+Type of visualization.
+
+The application retrieves data from a database, processes it, and displays it in the selected visualization format.
+
+# Data Source
+To populate the database, we selected various indicators from the website:
 
 GapMinder: https://www.gapminder.org/data/
 
-# Περιεχόμενα
-1. Κώδικας της εφαρμογής (Backend, Frontend).
-2. Python Scripts για τη δημιουργία της βάσης και των πινάκων.
-3. Python Scripts για την οπτικοποίηση των δεδομένων.
-4. Αναφορά με εκτενείς επεξηγήσεις.
+# Contents
+Application code (Backend, Frontend).
 
-Επιπλέον υπάρχει και ένα Video Report με σύντομες εξηγήσεις και εκτέλεση παραδείγματος. 
-Μπορείτε να το δείτε: https://youtu.be/pogM4Y7MNtw
+Python scripts for creating the database and tables.
 
-# Ομάδα
+Python scripts for data visualization.
 
-Υλοποιήθηκε από τους:
-  1. Βλαχοθανάση Νικόλαο(GitHub username: nickolasvlachothanasis)
-  2. Πασόη Σοφία (GitHub username: Sofia Pasoi)
+A report with detailed explanations.
 
+Additionally, there is a Video Report with brief explanations and a sample execution.
+You can watch it here: https://youtu.be/pogM4Y7MNtw
 
+# Team
+Implemented by:
+
+Nikolaos Vlachothanasis (GitHub username: nickolasvlachothanasis)
+
+Sofia Pasoi (GitHub username: Sofia Pasoi)
